@@ -29,4 +29,7 @@ A simple **React** and **TypeScript** app to display travel destinations with im
  3. Start the development server:
    
     ```bash
-     npm start
+     npm run dev
+
+![ProjectScreenshot](https://github.com/user-attachments/assets/0b26d9b6-c416-426e-8c7c-4392ff0a134a)
+
